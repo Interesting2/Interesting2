@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"   # Every 12 hours
   workflow_dispatch:
   push:
     branches:
@@ -15,10 +15,13 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout main branch
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+          ref: main
 
-      - name: Generate Snake SVG
+      - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -26,10 +29,12 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git diff --cached --quiet || git commit -m "Automated snake update"
-          git push
+      - name: Commit and push to output branch
+        uses: EndBug/add-and-commit@v9
+        with:
+          branch: output
+          message: 'Automated snake SVG update'
+          add: 'dist/**'
+          author_name: github-actions[bot]
+          author_email: github-actions[bot]@users.noreply.github.com
+          push: true
