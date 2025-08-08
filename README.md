@@ -36,7 +36,19 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> About Me
 
 <img align="right" width="380" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Coding gif" />
+🎓 Software Engineering Graduate with 1st Class Honours from The University of Sydney
 
+💼 Currently: Building real-time collaboration features at a productivity startup
+
+🚀 Experience: 3+ years in full-stack development, from startups to SaaS platforms
+
+👨‍🏫 Mentor: 2+ years tutoring software design patterns and principles
+
+🛠️ Recent Work: Deployed 14 AWS Lambda functions and configured DynamoDB for scalable architecture
+
+🌱 Learning: Live collaboration with Liveblocks and advanced cloud architectures
+
+💡 Passionate About: Building meaningful products that solve real problems
 
 <br clear="both">
 
