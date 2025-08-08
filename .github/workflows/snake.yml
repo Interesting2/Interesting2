@@ -18,8 +18,18 @@ jobs:
       - name: Checkout main branch
         uses: actions/checkout@v4
         with:
-          persist-credentials: false
-          ref: main
+          ref: main   # <-- no persist-credentials: false
+
+      - name: Commit and push to output branch
+        uses: EndBug/add-and-commit@v9
+        with:
+          new_branch: output
+          message: 'Automated snake SVG update'
+          add: 'dist/**'
+          author_name: github-actions[bot]
+          author_email: github-actions[bot]@users.noreply.github.com
+          push: true
+
 
       - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
@@ -28,13 +38,3 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Commit and push to output branch
-        uses: EndBug/add-and-commit@v9
-        with:
-          branch: output
-          message: 'Automated snake SVG update'
-          add: 'dist/**'
-          author_name: github-actions[bot]
-          author_email: github-actions[bot]@users.noreply.github.com
-          push: true
