@@ -142,8 +142,9 @@ graph LR
     style G fill:#6B46C1
     style I fill:#553C9A
 
-<!-- GitHub Section -->
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D1117"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&background=0D1117" alt="GitHub Streak" /> </div> <!-- Activity Graph --> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=B794F6&line=7C3AED&point=9333EA" /> </div> <!-- Achievements Section -->
+📊 GitHub Analytics
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D1117"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&background=0D1117" alt="GitHub Streak" /> </div> <!-- Activity Graph --> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=B794F6&line=7C3AED&point=9333EA" /> </div>
+
 🏆 Achievements & Highlights
 <div align="center">
 🎯 Achievement	📝 Description
@@ -153,9 +154,11 @@ graph LR
 🚀 14 Lambda Functions	Deployed serverless architecture in first week at current role
 💳 Stripe Integration	Built multi-tenant SaaS billing with 100% accuracy
 🎨 UI/UX Leadership	Designed 5+ high-fidelity mockups improving platform usability
-</div> <!-- Featured Projects -->
+</div>
+
 🌟 Featured Projects
-<div align="center"> <a href="https://github.com/YOUR_USERNAME/PROJECT1"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT1&theme=midnight-purple&hide_border=true&bg_color=0D1117" /> </a> <a href="https://github.com/YOUR_USERNAME/PROJECT2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT2&theme=midnight-purple&hide_border=true&bg_color=0D1117" /> </a> </div> <!-- Skills Progress Bars -->
+<div align="center"> <a href="https://github.com/YOUR_USERNAME/PROJECT1"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT1&theme=midnight-purple&hide_border=true&bg_color=0D1117" /> </a> <a href="https://github.com/YOUR_USERNAME/PROJECT2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT2&theme=midnight-purple&hide_border=true&bg_color=0D1117" /> </a> </div>
+
 🎯 Core Competencies
 <div align="center">
 text
