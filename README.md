@@ -142,10 +142,10 @@ graph LR
     style G fill:#6B46C1
     style I fill:#553C9A
 ```
-I["📊 GitHub Analytics"]
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D1117"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&background=0D1117" alt="GitHub Streak" /> </div> <!-- Activity Graph --> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=B794F6&line=7C3AED&point=9333EA" /> </div>
+## 📊 GitHub Analytics
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Interesting2&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Interesting2&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D1117"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Interesting2&theme=midnight-purple&hide_border=true&background=0D1117" alt="GitHub Streak" /> </div> <!-- Activity Graph --> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Interesting2&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=B794F6&line=7C3AED&point=9333EA" /> </div>
 
-🏆 Achievements & Highlights
+## 🏆 Achievements & Highlights
 <div align="center">
 🎯 Achievement	📝 Description
 🥇 Hackathon Winner	1st place at Tutor10x Backend Hackathon using MongoDB, AWS Lambda & S3
@@ -156,10 +156,10 @@ I["📊 GitHub Analytics"]
 🎨 UI/UX Leadership	Designed 5+ high-fidelity mockups improving platform usability
 </div>
 
-🌟 Featured Projects
+## 🌟 Featured Projects
 <div align="center"> <a href="https://github.com/YOUR_USERNAME/PROJECT1"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT1&theme=midnight-purple&hide_border=true&bg_color=0D1117" /> </a> <a href="https://github.com/YOUR_USERNAME/PROJECT2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT2&theme=midnight-purple&hide_border=true&bg_color=0D1117" /> </a> </div>
 
-🎯 Core Competencies
+## 🎯 Core Competencies
 <div align="center">
 text
 Full-Stack Development  ████████████████████░  95%
@@ -168,5 +168,6 @@ System Design          █████████████████░░
 Team Collaboration     ████████████████████░  95%
 Problem Solving        ████████████████████░  95%
 Mentoring & Teaching   █████████████████░░░░  85%
+
 </div> <!-- Quote --> <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Building%20meaningful%20products%20that%20solve%20real%20problems&author=Personal%20Philosophy" /> </div> <!-- Footer --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,17,19&height=120&section=footer&fontSize=14&fontColor=fff&animation=fadeIn" /> </div> <!-- Profile Views Counter --> <div align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6B46C1&style=for-the-badge&label=Profile+Views" /> </div> <!-- Snake Animation --> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" /> <img alt="github-snake" src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" /> </picture> </div>
 
