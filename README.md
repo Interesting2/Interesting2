@@ -1,6 +1,6 @@
 <!-- Animated Wave Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,17,19&height=250&section=header&text=Hey%20there!%20I'm%20[Your%20Name]%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Software%20Engineer%20|%20Problem%20Solver&descAlignY=55&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,17,19&height=250&section=header&text=Hey%20there!%20I'm%20[Justin]%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Software%20Engineer%20|%20Problem%20Solver&descAlignY=55&descSize=18" />
 </div>
 
 <!-- Typing Animation -->
@@ -27,6 +27,10 @@
 </div>
 
 <br>
+
+ <!-- Snake Animation --> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Interesting2/Interesting2/main/dist/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Interesting2/Interesting2/main/dist/github-contribution-grid-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/Interesting2/Interesting2/main/dist/github-contribution-grid-snake.svg" /> </picture> </div>
+
+ <br>
 
 <!-- About Section with Gradient Border -->
 <div align="center">
@@ -169,5 +173,5 @@ Team Collaboration     ███████████████████
 Problem Solving        ████████████████████░  95%
 Mentoring & Teaching   █████████████████░░░░  85%
 
-</div> <!-- Quote --> <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Building%20meaningful%20products%20that%20solve%20real%20problems&author=Personal%20Philosophy" /> </div> <!-- Footer --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,17,19&height=120&section=footer&fontSize=14&fontColor=fff&animation=fadeIn" /> </div> <!-- Profile Views Counter --> <div align="center"> <img src="https://komarev.com/ghpvc/?username=Interesting2&color=6B46C1&style=for-the-badge&label=Profile+Views" /> </div> <!-- Snake Animation --> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Interesting2/Interesting2/main/dist/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Interesting2/Interesting2/main/dist/github-contribution-grid-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/Interesting2/Interesting2/main/dist/github-contribution-grid-snake.svg" /> </picture> </div>
+</div> <!-- Quote --> <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Building%20meaningful%20products%20that%20solve%20real%20problems&author=Personal%20Philosophy" /> </div> <!-- Footer --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,17,19&height=120&section=footer&fontSize=14&fontColor=fff&animation=fadeIn" /> </div> <!-- Profile Views Counter --> <div align="center"> <img src="https://komarev.com/ghpvc/?username=Interesting2&color=6B46C1&style=for-the-badge&label=Profile+Views" /> </div>
 
