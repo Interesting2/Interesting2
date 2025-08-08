@@ -24,7 +24,7 @@
   </a>
 </p>
 
-<!-- Snake Animation --> <p align="center"> <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" /> </p> <!-- Visitor Counter --> <p align="center"> <img src="https://komarev.com/ghpvc/?Interesting2=[Interesting2]&style=for-the-badge&color=9D4EDD&label=PROFILE+VIEWS" /> </p> <!-- Connect Section --> <h3 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px"> Let's Connect and Build Something Amazing Together! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px"> </h3> <p align="center"> <i>Open to collaborating on innovative projects and always excited to connect with fellow developers!</i> </p>
+<!-- Snake Animation --> <p align="center"> <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" /> </p> <!-- Visitor Counter --> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Interesting2&style=for-the-badge&color=9D4EDD&label=PROFILE+VIEWS" /> </p> <!-- Connect Section --> <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> Let's Connect and Build Something Amazing Together! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px"> </h3> <p align="center"> <i>Open to collaborating on innovative projects and always excited to connect with fellow developers!</i> </p>
 
 <!-- About Me Section with Gradient Border -->
 <div align="center">
@@ -113,40 +113,6 @@
 </p>
 </details>
 
-<!-- Experience Timeline -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30px">
-  Professional Journey
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30px">
-</h2>
-
-```mermaid
-graph TD
-    A[2022] -->|Java Tutor| B[HD Education]
-    B --> C[2023]
-    C -->|Software Engineer Intern| D[DenekaIT]
-    D --> E[2024]
-    E -->|Graduated with Honours| F[University of Sydney]
-    F --> G[2025]
-    G -->H[TechScrum]
-    G -->I[Productivity Startup]
-    
-    style A fill:#9D4EDD,stroke:#7B2CBF,stroke-width:3px,color:#fff
-    style B fill:#7B2CBF,stroke:#5A189A,stroke-width:3px,color:#fff
-    style C fill:#5A189A,stroke:#3C096C,stroke-width:3px,color:#fff
-    style D fill:#3C096C,stroke:#240046,stroke-width:3px,color:#fff
-    style E fill:#240046,stroke:#10002B,stroke-width:3px,color:#fff
-    style F fill:#440146,stroke:#1AC02B,stroke-width:3px,color:#fff
-    style G fill:#653C9A,stroke:#3ACC6D,stroke-width:3px,color:#fff
-
-
-
-```
-Skill	Progress
-<!-- Featured Projects --> <h2 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px"> Featured Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px"> </h2> <div align="center"> <a href="https://www.techscrumapp.com/"> <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Interesting2&repo=[techscrum-repo]&theme=radical&hide_border=true&bg_color=0D1117" /> </a> <a href="https://github.com/Interesting2/League-of-Legend-Statistics-Tracker"> <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Interesting2&repo=[project-repo]&theme=radical&hide_border=true&bg_color=0D1117" /> </a> </div> <!-- GitHub Stats --> <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Analytics <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> </h2> <p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Interesting2&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=7B2CBF&text_color=C9D1D9" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Interesting2&theme=radical&hide_border=true&background=0D1117&stroke=9D4EDD&ring=7B2CBF&fire=9D4EDD&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=9D4EDD&sideLabels=9D4EDD&dates=C9D1D9" /> </p> <p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Interesting2&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=C9D1D9" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Interesting2&theme=radical" /> </p>
-
-<!-- Activity Graph --> <h2 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30px"> Contribution Graph <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30px"> </h2> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Interesting2&theme=react-dark&bg_color=0D1117&color=9D4EDD&line=7B2CBF&point=9D4EDD&hide_border=true" /> </p> <!-- Trophies --> <h2 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="30px"> GitHub Trophies <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="30px"> </h2> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Interesting2&theme=radical&no-frame=true&no-bg=false&margin-w=4&margin-h=4&column=7" /> </p> <!-- Skills Progress Bars --> <h2 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30px"> 
-
 <br clear="both">
 
 <!-- Current Work Section -->
@@ -170,3 +136,38 @@ Skill	Progress
     </tr>
   </table>
 </div>
+
+<!-- Experience Timeline -->
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30px">
+  Professional Journey
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30px">
+</h2>
+
+```mermaid
+graph TD
+    A[2020] -->|Entered Bachelor of Software Engineering - Honours | B[University of Sydney]
+    B[2022] -->|Java Tutor| C[HD Education]
+    C --> D[2023]
+    D -->|Software Engineer Intern| E[DenekaIT]
+    E --> F[2024]
+    F -->|Graduated with 1st class Honours| G[University of Sydney]
+    G --> H[2025]
+    H --> I[TechScrum]
+    H --> J[Eden.pm]
+    
+    style A fill:#8B5CF6,stroke:#7C3AED,stroke-width:3px,color:#fff
+    style B fill:#9D4EDD,stroke:#7B2CBF,stroke-width:3px,color:#fff
+    style C fill:#7B2CBF,stroke:#5A189A,stroke-width:3px,color:#fff
+    style D fill:#5A189A,stroke:#3C096C,stroke-width:3px,color:#fff
+    style E fill:#3C096C,stroke:#240046,stroke-width:3px,color:#fff
+    style F fill:#240046,stroke:#10002B,stroke-width:3px,color:#fff
+    style G fill:#440146,stroke:#1AC02B,stroke-width:3px,color:#fff
+    style H fill:#653C9A,stroke:#3ACC6D,stroke-width:3px,color:#fff
+
+
+```
+
+<!-- Featured Projects --> <h2 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px"> Featured Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px"> </h2> <div align="center"> <a href="https://www.techscrumapp.com/"> <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Interesting2&repo=[techscrum-repo]&theme=radical&hide_border=true&bg_color=0D1117" /> </a> <a href="https://github.com/Interesting2/League-of-Legend-Statistics-Tracker"> <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Interesting2&repo=[project-repo]&theme=radical&hide_border=true&bg_color=0D1117" /> </a> </div> <!-- GitHub Stats --> <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Analytics <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> </h2> <p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Interesting2&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=7B2CBF&text_color=C9D1D9" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Interesting2&theme=radical&hide_border=true&background=0D1117&stroke=9D4EDD&ring=7B2CBF&fire=9D4EDD&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=9D4EDD&sideLabels=9D4EDD&dates=C9D1D9" /> </p> <p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Interesting2&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=C9D1D9" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Interesting2&theme=radical" /> </p>
+
+<!-- Activity Graph --> <h2 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30px"> Contribution Graph <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30px"> </h2> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Interesting2&theme=react-dark&bg_color=0D1117&color=9D4EDD&line=7B2CBF&point=9D4EDD&hide_border=true" /> </p> <!-- Trophies --> <h2 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="30px"> GitHub Trophies <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="30px"> </h2> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Interesting2&theme=radical&no-frame=true&no-bg=false&margin-w=4&margin-h=4&column=7" /> </p>
